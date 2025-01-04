@@ -27,10 +27,9 @@ Run the app:
    ```bash
    streamlit run app.py
 
-
-- Open the app in your browser (default: http://localhost:8501).
-- Enter a blog topic or prompt (e.g., "Best Ideas for Investments in 2025").
-- Click Generate Blog Content and view the results.
+1. Open the app in your browser (default: http://localhost:8501).
+2. Enter a blog topic or prompt (e.g., "Best Ideas for Investments in 2025").
+3. Click Generate Blog Content and view the results.
 
 ## Tools Used
 SmolAgents: AI agent framework.
