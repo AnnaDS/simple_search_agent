@@ -16,16 +16,16 @@ Generate creative blogs enriched with insights from real-time web searches using
 
 2. Install dependencies:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. Set Hugging Face API token:
    ```bash
-export HF_TOKEN='your_hugging_face_token'
+   export HF_TOKEN='your_hugging_face_token'
 
 ## Usage
 Run the app:
-
-streamlit run app.py
+   ```bash
+   streamlit run app.py
 
 Open the app in your browser (default: http://localhost:8501).
 Enter a blog topic or prompt (e.g., "Best Ideas for Investments in 2025").
