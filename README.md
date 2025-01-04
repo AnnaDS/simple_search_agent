@@ -26,6 +26,7 @@ Generate creative blogs enriched with insights from real-time web searches using
 Run the app:
    ```bash
    streamlit run app.py
+```
 
 1. Open the app in your browser (default: http://localhost:8501).
 2. Enter a blog topic or prompt (e.g., "Best Ideas for Investments in 2025").
