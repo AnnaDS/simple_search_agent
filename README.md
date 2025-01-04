@@ -15,9 +15,11 @@ Generate creative blogs enriched with insights from real-time web searches using
    cd simple_search_agent
 
 2. Install dependencies:
+   ```bash
 pip install -r requirements.txt
 
-3. Set Hugging Face API token:
+4. Set Hugging Face API token:
+   ```bash
 export HF_TOKEN='your_hugging_face_token'
 
 ## Usage
