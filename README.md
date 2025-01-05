@@ -21,6 +21,15 @@ Generate creative blogs enriched with insights from real-time web searches using
 4. Set Hugging Face API token:
    ```bash
    export HF_TOKEN='your_hugging_face_token'
+   
+5. Set Google Search API token from https://serpapi.com :
+   ```bash
+   export SERPAPI_API_KEY='your_serpapi_token'
+```
+   If you don't want to create an account in serpapi.com you can use a tools=[DuckDuckGoSearchTool()] in CodeAgent. Just choose the right tool in the code
+tools=[DuckDuckGoSearchTool()], 
+tools=[GoogleSearchTool(), VisitWebpageTool()]
+   
 
 ## Usage
 Run the app:
